@@ -14,5 +14,4 @@ touch app.py
 touch research/trials.ipnyb
 touch requirements.txt
 
-echo "Directory and files created successfully!."
-
+echo "Directory and files created successfully!."n
